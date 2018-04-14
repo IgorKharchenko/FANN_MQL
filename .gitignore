@@ -1,11 +1,11 @@
-Experts
 !Experts/Fann-Expert.mq4
+Experts
 
 Images
 
-Include
-!Include/Fann
+!Include/Fann/*
 !Include/Fann2MQL.mqh
+Include
 
 Indicators
 
@@ -23,4 +23,3 @@ Files/Data/Neuro_RightAnswersStats.csv
 Files/Data/Neuro_CommonStats.csv
 Files/Data/Neuro_Results.csv
 Files/Data/Neuro_MSE.csv
-
