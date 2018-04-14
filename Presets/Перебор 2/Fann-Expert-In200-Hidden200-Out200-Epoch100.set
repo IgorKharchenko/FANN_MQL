@@ -1,0 +1,16 @@
+DebugLevel=2
+Timeframe=60
+AnnDataSource=1
+AmountOfInputNeurons=200
+AmountOfHiddenNeurons=200
+AmountOfOutputNeurons=200
+SaveMSE=false
+SaveNeuro=false
+SaveNeuroRightAnswersStatistics=false
+ShowNeuroRightAnswersStatistics=true
+AmountOfTrainRates=3000
+AmountOfRunRates=200
+AmountOfEpochs=100
+AnnEpsilon=0.00001
+AnnTrainingMode=2
+ShowMSEWarnings=false

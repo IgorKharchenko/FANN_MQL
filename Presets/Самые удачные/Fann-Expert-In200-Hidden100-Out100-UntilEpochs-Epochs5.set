@@ -1,0 +1,17 @@
+DebugLevel=2
+Epsilon=0.001
+Timeframe=60
+AmountOfInputNeurons=200
+AmountOfHiddenNeurons=100
+AmountOfOutputNeurons=100
+SaveMSE=false
+SaveNeuro=false
+SaveNeuroRightAnswersStatistics=false
+ShowNeuroRightAnswersStatistics=true
+AmountOfRates=3000
+WindowSize=200
+AmountOfEpochs=5
+AnswerCheckAlgorithm=2
+AnnEpsilon=0.00001
+AnnTrainingMode=2
+ShowMSEWarnings=false
